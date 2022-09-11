@@ -2,7 +2,9 @@ package day1;
 
 public class Hello {
     public static void main(String[] args) {
-        System.out.printf("r");
+        System.out.println("r");
+        System.out.println("test02");
     }
-    //test
+    //test01
+    //test02
 }
